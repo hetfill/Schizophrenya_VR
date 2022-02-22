@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.schizophrenyavr-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "SchizophrenyaVR-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}
