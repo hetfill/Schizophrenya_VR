@@ -1130,3 +1130,179 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.16-14.14.07:721][  9]LogSavePackage: Moving 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Saved/Level_Art_Auto128A2386E4580AC192E86CABC2F32AC41.tmp' to 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Saved/Autosaves/Game/Maps/Level_Art_Auto1.umap'
 [2022.04.16-14.14.07:721][  9]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapas/MapaPrincipal' took 0.164
 [2022.04.16-14.14.07:721][  9]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2022.04.16-14.24.08:097][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.16-14.24.08:098][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapas/MapaPrincipal' took 0.006
+[2022.04.16-14.27.02:290][698]LogSlate: Took 0.008251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.16-14.27.03:997][860]LogSlate: Window 'Message Log' being destroyed
+[2022.04.16-14.27.04:002][860]LogSlate: Window 'Message Log' being destroyed
+[2022.04.16-14.27.05:875][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.16-14.27.07:108][ 78]LogSlate: Window 'Save Content' being destroyed
+[2022.04.16-14.27.07:144][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Art" FILE="E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Content/Maps/Level_Art.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.16-14.27.07:149][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.16-14.27.07:155][ 78]LogSavePackage: Moving 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Saved/Level_Art3A9E90CB49462582EF459EA6EBCBD603.tmp' to 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Content/Maps/Level_Art.umap'
+[2022.04.16-14.27.07:156][ 78]LogFileHelpers: Saving map 'Level_Art' took 0.012
+[2022.04.16-14.27.07:156][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Art_BuiltData" FILE="E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Content/Maps/Level_Art_BuiltData.uasset" SILENT=true
+[2022.04.16-14.27.07:182][ 78]LogSavePackage: Moving 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Saved/Level_Art_BuiltDataBA7D902D427721967DC8F982AF81581D.tmp' to 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Content/Maps/Level_Art_BuiltData.uasset'
+[2022.04.16-14.27.07:188][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.16-14.27.07:311][ 78]LogSavePackage: Moving 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Saved/MapaPrincipal5047A0F8401658BC4B5A2F87219615FD.tmp' to 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Content/Mapas/MapaPrincipal.umap'
+[2022.04.16-14.27.07:337][ 78]LogFileHelpers: Saving map 'MapaPrincipal' took 0.155
+[2022.04.16-14.27.07:338][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/MapaPrincipal_BuiltData" FILE="E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Content/Mapas/MapaPrincipal_BuiltData.uasset" SILENT=true
+[2022.04.16-14.27.07:702][ 78]LogSavePackage: Moving 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Saved/MapaPrincipal_BuiltData9FEE54A6494A09B03798EB8FD9842E12.tmp' to 'E:/Merci-Bkp/000-SchizophrenyaProject/Schizophrenya_VR/SchizophrenyaVR/Content/Mapas/MapaPrincipal_BuiltData.uasset'
+[2022.04.16-14.27.07:719][ 78]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.16-14.27.07:723][ 78]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/MapaPrincipal_BuiltData.MapaPrincipal_BuiltData
+[2022.04.16-14.27.07:723][ 78]LogContentValidation: Display: Validating World /Game/Mapas/MapaPrincipal.MapaPrincipal
+[2022.04.16-14.27.07:723][ 78]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_Art_BuiltData.Level_Art_BuiltData
+[2022.04.16-14.27.07:723][ 78]LogContentValidation: Display: Validating World /Game/Maps/Level_Art.Level_Art
+[2022.04.16-14.27.26:358][743]LogMaterial: Display: Missing cached shadermap for M_Spark in PCD3D_SM5, Default, SM5 (DDC key hash: BFE418B87D834C1262E72C30512DA3CC46069920), compiling. 
+[2022.04.16-14.27.26:411][743]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:421][743]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2022.04.16-14.27.26:421][743]LogMaterial: Display: Missing cached shadermap for M_Radial_Gradient in PCD3D_SM5, Default, SM5 (DDC key hash: 222451FF633C212F84C0F29A6901EC90611476A9), compiling. 
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:446][743]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:448][743]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 04029AE0326E091837C2A0E9A6BF1509D79AC255), compiling. 
+[2022.04.16-14.27.26:530][743]LogShaderCompilers: Display: Submitted 96 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:568][743]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 7AF7E9322A999F18D7BFF30E1CD06BBDDF0E3711), compiling. 
+[2022.04.16-14.27.26:606][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:607][743]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: A6143A65D13A845AA5204CB6C60F1B3E09A216AF), compiling. 
+[2022.04.16-14.27.26:625][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:626][743]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: B1FCE5279283796943EB5CE00C151432EC1D24E5), compiling. 
+[2022.04.16-14.27.26:642][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:643][743]LogMaterial: Display: Missing cached shadermap for M_Tech_Checker_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: D86A2FCAA0BB1F3D28F714EB53119CC5D22F5802), compiling. 
+[2022.04.16-14.27.26:658][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:659][743]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: F193872BF4CF65C0AE963E3673C9A9D877174807), compiling. 
+[2022.04.16-14.27.26:674][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:675][743]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 817191EC1B4FC302A11E101B91962263234496BC), compiling. 
+[2022.04.16-14.27.26:690][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:691][743]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 538845A03B7D2F1E3CCEDB7850E897292DDC209D), compiling. 
+[2022.04.16-14.27.26:706][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:708][743]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Pebble in PCD3D_SM5, Default, SM5 (DDC key hash: 2BBB4CF891BF4A1DD96A58D84A3F967C449CD853), compiling. 
+[2022.04.16-14.27.26:723][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:724][743]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: B028F94D0EBD1D210B249190E52EE7A19D264AB5), compiling. 
+[2022.04.16-14.27.26:739][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:740][743]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 69726464E103959A9CA0050275EEEE8850C374B4), compiling. 
+[2022.04.16-14.27.26:755][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:756][743]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 8CCC0BA0D8569D79573626AA7C82F8F9C251B576), compiling. 
+[2022.04.16-14.27.26:772][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:773][743]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 8A8C6E07DDEC9B60FCD0EBB541FD6640CC817551), compiling. 
+[2022.04.16-14.27.26:788][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:892][743]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 532C3F14848A5A6F6EC29830125829DA15A8CA79), compiling. 
+[2022.04.16-14.27.26:910][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:921][743]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_New in PCD3D_SM5, Default, SM5 (DDC key hash: C0DB2FE7734E573A934E2D874F96E5BD74D0EA23), compiling. 
+[2022.04.16-14.27.26:941][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.26:946][743]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.04.16-14.27.26:950][743]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.04.16-14.27.26:955][743]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.04.16-14.27.26:960][743]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.04.16-14.27.26:965][743]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.04.16-14.27.26:970][743]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.04.16-14.27.26:975][743]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.04.16-14.27.26:980][743]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.04.16-14.27.26:984][743]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.04.16-14.27.26:989][743]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.04.16-14.27.26:993][743]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: A5E82BF4621A0F4032C506FA9FE2DBE2D30A52D5), compiling. 
+[2022.04.16-14.27.27:008][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:009][743]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: 8410EDAACBD6BCD13CC01E2451A4E2D566ABFA88), compiling. 
+[2022.04.16-14.27.27:025][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:026][743]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 40B7DB48774F6219B44557E111EE4716C36E52AD), compiling. 
+[2022.04.16-14.27.27:041][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:042][743]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: E5B2AC8F68A85127D24F2E03CD48C2C1E88EB72E), compiling. 
+[2022.04.16-14.27.27:057][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:059][743]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: 3BC621570BB94E32744590741F37416DAE9985C1), compiling. 
+[2022.04.16-14.27.27:075][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:076][743]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: 7DA627B0FEFB8DD6261F1395C485BE5B1E2D7C58), compiling. 
+[2022.04.16-14.27.27:092][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:093][743]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 603A9FF80FAB83245A6B0BBAB36A1F9FE68BDCF1), compiling. 
+[2022.04.16-14.27.27:110][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:112][743]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: A315EB7FD631B80E531FB9209068FEEB64E97FFC), compiling. 
+[2022.04.16-14.27.27:127][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:128][743]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 31A26C7387634FEC7F5ACA19809D8EB43B6BC9A6), compiling. 
+[2022.04.16-14.27.27:143][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:161][743]LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 09A9D64CD406F51CD7D5D84C329F2F271C165D5C), compiling. 
+[2022.04.16-14.27.27:176][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:193][743]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: DAB5BEC328C89726051195D07984543B92C42BE5), compiling. 
+[2022.04.16-14.27.27:208][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:209][743]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 38ABA2F5AC709A3132AC167D3CC2DCB779C9E339), compiling. 
+[2022.04.16-14.27.27:226][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:234][743]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: F018AEB1E4C0DA8E4BD85A988C9FC523955B09D7), compiling. 
+[2022.04.16-14.27.27:250][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:251][743]LogMaterial: Display: Missing cached shadermap for M_Metal_Copper in PCD3D_SM5, Default, SM5 (DDC key hash: C653803EC9F1DBC978E00FD85EC219A2CF885007), compiling. 
+[2022.04.16-14.27.27:267][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:268][743]LogMaterial: Display: Missing cached shadermap for M_Metal_Chrome in PCD3D_SM5, Default, SM5 (DDC key hash: 085CC8DA374EF51D56F5810F2D042242598C0A44), compiling. 
+[2022.04.16-14.27.27:283][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:285][743]LogMaterial: Display: Missing cached shadermap for M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 2A7F8C5DC3519D2F1B978562A6AF9F48BC673641), compiling. 
+[2022.04.16-14.27.27:301][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:303][743]LogMaterial: Display: Missing cached shadermap for M_Metal_Brushed_Nickel in PCD3D_SM5, Default, SM5 (DDC key hash: 1C3CF9F1ADDB0B8774DDF5822962CF0E38904945), compiling. 
+[2022.04.16-14.27.27:318][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:320][743]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 8E3B03F3049FC45D4C6EF9041DB5BCF0B621F153), compiling. 
+[2022.04.16-14.27.27:339][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:341][743]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 2E38C4AE2F2A4D2E1072E1D5FB3F2CCE8C6DBEEF), compiling. 
+[2022.04.16-14.27.27:357][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:366][743]LogMaterial: Display: Missing cached shadermap for M_Concrete_Tiles in PCD3D_SM5, Default, SM5 (DDC key hash: F1E95D15C29A1F81CB4A1705F93CB310A9DD2205), compiling. 
+[2022.04.16-14.27.27:382][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:383][743]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 85DCBC4CB50A64D07A2607A1EE1756FB7F3C205A), compiling. 
+[2022.04.16-14.27.27:401][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:402][743]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Rough in PCD3D_SM5, Default, SM5 (DDC key hash: 10E2F7D13FAB59361CC5D36F82A89BD6308469E5), compiling. 
+[2022.04.16-14.27.27:426][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:490][743]LogMaterial: Display: Missing cached shadermap for M_StatueGlass in PCD3D_SM5, Default, SM5 (DDC key hash: 67E122C003254CAE9697ACB19EC28BC1217F9F9E), compiling. 
+[2022.04.16-14.27.27:550][743]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:554][743]LogMaterial: Display: Missing cached shadermap for M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: C8F72053D5BA3472D1293F2E14E61DD9E8E09E09), compiling. 
+[2022.04.16-14.27.27:579][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:642][743]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 8A1697BF1F6EF344A965A1F2B10A478820384B7E), compiling. 
+[2022.04.16-14.27.27:685][743]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:697][743]LogMaterial: Display: Missing cached shadermap for M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: 4CC03C0D41BAA1C64BEE79BDAC7DF09237EF4AC7), compiling. 
+[2022.04.16-14.27.27:722][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.27:757][743]LogMaterial: Display: Missing cached shadermap for M_Dust_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 4A5CA944D0C5E69B8F40A186C8F7FAB224FD645E), compiling. 
+[2022.04.16-14.27.27:866][743]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.28:079][743]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1314
+[2022.04.16-14.27.28:079][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.27.28:079][743]LogMaterial: Display: Missing cached shadermap for M_Basic_Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 5119330ED76EEF21DB4B42AC84567711B1315688), compiling. 
+[2022.04.16-14.27.28:102][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.28:167][743]LogMaterial: Display: Missing cached shadermap for M_Wood_Walnut in PCD3D_SM5, Default, SM5 (DDC key hash: 02AF640D33082560CF85A036CE965428FC5A4397), compiling. 
+[2022.04.16-14.27.28:193][743]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.28:198][743]LogMaterial: Display: Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0239B320F577405D9075F64BC2852778468D3D1F), compiling. 
+[2022.04.16-14.27.28:206][743]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.28:249][743]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: 9542ADF8D668DE97DDEB38BE635ABCF8348F5C54), compiling. 
+[2022.04.16-14.27.28:288][743]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.28:338][743]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 735B37DCB0ACDE288CD3F7C3AC64CE804737FF96), compiling. 
+[2022.04.16-14.27.28:370][743]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2022.04.16-14.27.28:643][743]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-14.27.28:644][743]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-14.27.28:644][743]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.04.16-14.27.28:645][743]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.04.16-14.27.28:645][743]LogShaderCompilers: Display: ================================================
+[2022.04.16-14.27.28:739][743]LogObjectTools: Deleting 1 worlds: /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.04.16-14.27.28:739][743]LogObjectTools: Currently 2 active worlds: /Game/Mapas/MapaPrincipal.MapaPrincipal, /Game/Maps/Level_Art.Level_Art
+[2022.04.16-14.27.28:758][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.04.16-14.27.29:319][743]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 156
+[2022.04.16-14.27.29:319][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.27.29:571][743]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 146
+[2022.04.16-14.27.29:571][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.27.30:083][743]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 136
+[2022.04.16-14.27.30:083][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.27.30:703][743]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 126
+[2022.04.16-14.27.30:703][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.27.32:088][743]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 116
+[2022.04.16-14.27.32:088][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.27.32:241][743]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 106
+[2022.04.16-14.27.32:241][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.27.32:577][743]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 96
+[2022.04.16-14.27.32:577][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.27.45:189][743]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 86
+[2022.04.16-14.27.45:189][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.28.00:980][743]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.16-14.28.01:038][743]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.16-14.28.01:042][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.16-14.28.01:255][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.04.16-14.28.01:271][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.16-14.28.01:308][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.04.16-14.28.01:319][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.16-14.28.08:283][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.16-14.28.28:444][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2022.04.16-14.28.28:444][328]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
