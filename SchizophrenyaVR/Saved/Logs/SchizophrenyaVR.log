@@ -1306,3 +1306,877 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.16-14.28.08:283][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2022.04.16-14.28.28:444][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
 [2022.04.16-14.28.28:444][328]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.28.37:672][864]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2022.04.16-14.28.37:672][864]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.28.38:546][896]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2022.04.16-14.28.38:546][896]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.28.40:014][976]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2022.04.16-14.28.40:014][976]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.28.41:239][ 42]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2022.04.16-14.28.41:239][ 42]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.28.44:180][184]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2022.04.16-14.28.44:180][184]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.28.44:776][210]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 31
+[2022.04.16-14.28.44:777][210]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.00:496][988]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2022.04.16-14.29.00:496][988]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.16:492][782]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2022.04.16-14.29.16:492][782]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.19:197][899]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.16-14.29.19:197][899]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.30:795][482]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.04.16-14.29.30:796][482]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.31:581][518]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.04.16-14.29.31:581][518]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.34:395][645]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2022.04.16-14.29.34:395][645]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.36:314][729]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2022.04.16-14.29.36:314][729]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.43:233][ 86]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.04.16-14.29.43:233][ 86]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.45:277][184]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.04.16-14.29.45:277][184]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.46:202][224]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.16-14.29.46:202][224]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.47:732][295]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.04.16-14.29.47:732][295]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.48:699][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.04.16-14.29.48:699][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.49:974][394]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.16-14.29.49:974][394]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.50:384][414]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.04.16-14.29.50:384][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.16-14.29.51:621][474]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 942
+[2022.04.16-14.29.51:621][474]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.29.51:904][488]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 932
+[2022.04.16-14.29.51:905][488]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.29.57:483][767]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 922
+[2022.04.16-14.29.57:483][767]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.29.58:637][823]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 912
+[2022.04.16-14.29.58:637][823]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.29.59:564][866]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 902
+[2022.04.16-14.29.59:564][866]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.29.59:947][883]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 892
+[2022.04.16-14.29.59:947][883]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.30.02:352][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 882
+[2022.04.16-14.30.02:352][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.30.04:046][ 84]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 872
+[2022.04.16-14.30.04:046][ 84]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.30.54:464][585]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 862
+[2022.04.16-14.30.54:465][585]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.30.54:484][585]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-14.30.54:484][585]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-14.30.54:484][585]LogShaderCompilers: Display: Tracking 212 distinct input hashes that result in 120 distinct outputs (56.60%)
+[2022.04.16-14.30.54:484][585]LogShaderCompilers: Display: RAM used: 2.52 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.31%
+[2022.04.16-14.30.54:484][585]LogShaderCompilers: Display: ================================================
+[2022.04.16-14.31.01:483][935]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 852
+[2022.04.16-14.31.01:483][935]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.31.02:079][967]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 842
+[2022.04.16-14.31.02:080][967]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.31.06:506][176]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 832
+[2022.04.16-14.31.06:506][176]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.31.33:388][492]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 822
+[2022.04.16-14.31.33:388][492]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.31.41:359][872]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 812
+[2022.04.16-14.31.41:359][872]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.31.48:770][237]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 802
+[2022.04.16-14.31.48:770][237]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.31.54:129][501]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 792
+[2022.04.16-14.31.54:129][501]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.32.08:894][242]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 782
+[2022.04.16-14.32.08:895][242]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.32.23:982][998]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 772
+[2022.04.16-14.32.23:982][998]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.32.28:868][230]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 762
+[2022.04.16-14.32.28:868][230]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.32.30:257][291]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 752
+[2022.04.16-14.32.30:257][291]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.32.40:871][817]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 742
+[2022.04.16-14.32.40:871][817]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.32.41:097][827]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 732
+[2022.04.16-14.32.41:098][827]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.32.58:727][687]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 722
+[2022.04.16-14.32.58:727][687]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.33.07:469][122]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 712
+[2022.04.16-14.33.07:469][122]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.33.31:421][285]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 702
+[2022.04.16-14.33.31:421][285]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.33.35:557][496]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 692
+[2022.04.16-14.33.35:557][496]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.33.36:604][547]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 682
+[2022.04.16-14.33.36:604][547]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.33.52:922][337]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 672
+[2022.04.16-14.33.52:923][337]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.33.55:935][481]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 662
+[2022.04.16-14.33.55:936][481]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.33.55:956][481]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-14.33.55:956][481]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-14.33.55:956][481]LogShaderCompilers: Display: Tracking 412 distinct input hashes that result in 253 distinct outputs (61.41%)
+[2022.04.16-14.33.55:956][481]LogShaderCompilers: Display: RAM used: 5.42 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.66%
+[2022.04.16-14.33.55:956][481]LogShaderCompilers: Display: ================================================
+[2022.04.16-14.34.24:442][910]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 652
+[2022.04.16-14.34.24:442][910]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.34.24:754][924]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 642
+[2022.04.16-14.34.24:754][924]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.34.26:196][984]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 632
+[2022.04.16-14.34.26:196][984]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.34.30:837][201]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 622
+[2022.04.16-14.34.30:838][201]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.34.36:177][461]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 612
+[2022.04.16-14.34.36:177][461]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.34.47:193][987]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 602
+[2022.04.16-14.34.47:194][987]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.34.56:148][432]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 592
+[2022.04.16-14.34.56:148][432]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.34.57:028][473]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 582
+[2022.04.16-14.34.57:028][473]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.35.37:639][455]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 572
+[2022.04.16-14.35.37:639][455]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.35.45:092][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 562
+[2022.04.16-14.35.45:092][816]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.35.50:573][ 90]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 552
+[2022.04.16-14.35.50:573][ 90]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.36.02:712][681]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 542
+[2022.04.16-14.36.02:712][681]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.36.03:509][722]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 532
+[2022.04.16-14.36.03:509][722]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.36.06:750][893]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 522
+[2022.04.16-14.36.06:750][893]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.36.25:356][809]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 512
+[2022.04.16-14.36.25:357][809]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.36.25:468][813]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 502
+[2022.04.16-14.36.25:469][813]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.36.53:736][192]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 492
+[2022.04.16-14.36.53:737][192]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.37.05:781][794]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 482
+[2022.04.16-14.37.05:781][794]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.37.05:781][794]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-14.37.05:781][794]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-14.37.05:781][794]LogShaderCompilers: Display: Tracking 592 distinct input hashes that result in 377 distinct outputs (63.68%)
+[2022.04.16-14.37.05:781][794]LogShaderCompilers: Display: RAM used: 8.03 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.98%
+[2022.04.16-14.37.05:781][794]LogShaderCompilers: Display: ================================================
+[2022.04.16-14.37.13:812][170]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 472
+[2022.04.16-14.37.13:812][170]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.37.19:905][476]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 462
+[2022.04.16-14.37.19:905][476]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.37.36:519][287]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 452
+[2022.04.16-14.37.36:519][287]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.37.40:665][483]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 442
+[2022.04.16-14.37.40:665][483]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.37.44:524][673]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 432
+[2022.04.16-14.37.44:524][673]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.37.56:596][260]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 422
+[2022.04.16-14.37.56:596][260]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.38.05:875][723]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 412
+[2022.04.16-14.38.05:876][723]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.38.16:031][249]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 402
+[2022.04.16-14.38.16:031][249]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.38.39:383][398]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 392
+[2022.04.16-14.38.39:383][398]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.38.40:309][442]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 382
+[2022.04.16-14.38.40:309][442]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.38.51:329][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 372
+[2022.04.16-14.38.51:329][978]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.39.00:721][437]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 362
+[2022.04.16-14.39.00:721][437]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.39.01:394][468]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 352
+[2022.04.16-14.39.01:394][468]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.39.18:473][309]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 342
+[2022.04.16-14.39.18:473][309]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.39.23:962][575]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 332
+[2022.04.16-14.39.23:962][575]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.39.26:878][708]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 322
+[2022.04.16-14.39.26:878][708]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.40.18:734][312]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 312
+[2022.04.16-14.40.18:734][312]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.40.18:753][312]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-14.40.18:753][312]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-14.40.18:753][312]LogShaderCompilers: Display: Tracking 762 distinct input hashes that result in 494 distinct outputs (64.83%)
+[2022.04.16-14.40.18:753][312]LogShaderCompilers: Display: RAM used: 10.74 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.31%
+[2022.04.16-14.40.18:753][312]LogShaderCompilers: Display: ================================================
+[2022.04.16-14.40.24:450][586]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 302
+[2022.04.16-14.40.24:451][586]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.40.25:758][647]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 292
+[2022.04.16-14.40.25:758][647]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.40.35:427][130]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 282
+[2022.04.16-14.40.35:427][130]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.40.41:899][432]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 272
+[2022.04.16-14.40.41:899][432]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.40.43:035][483]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 262
+[2022.04.16-14.40.43:035][483]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.40.54:782][ 71]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 252
+[2022.04.16-14.40.54:783][ 71]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.41.05:128][576]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 242
+[2022.04.16-14.41.05:129][576]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.41.20:358][321]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 232
+[2022.04.16-14.41.20:359][321]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.41.30:404][797]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 222
+[2022.04.16-14.41.30:404][797]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.41.51:481][837]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 212
+[2022.04.16-14.41.51:481][837]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.41.51:870][855]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 202
+[2022.04.16-14.41.51:870][855]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.42.09:859][754]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 192
+[2022.04.16-14.42.09:859][754]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.42.22:491][384]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 182
+[2022.04.16-14.42.22:491][384]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.42.22:806][398]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 172
+[2022.04.16-14.42.22:806][398]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.42.35:412][ 18]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 162
+[2022.04.16-14.42.35:412][ 18]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.42.48:417][641]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 152
+[2022.04.16-14.42.48:417][641]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.42.53:319][872]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 142
+[2022.04.16-14.42.53:319][872]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.42.54:106][907]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 132
+[2022.04.16-14.42.54:107][907]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.43.24:357][372]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 122
+[2022.04.16-14.43.24:357][372]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.43.24:376][372]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-14.43.24:377][372]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-14.43.24:377][372]LogShaderCompilers: Display: Tracking 952 distinct input hashes that result in 624 distinct outputs (65.55%)
+[2022.04.16-14.43.24:377][372]LogShaderCompilers: Display: RAM used: 14.03 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.71%
+[2022.04.16-14.43.24:377][372]LogShaderCompilers: Display: ================================================
+[2022.04.16-14.43.35:567][922]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 112
+[2022.04.16-14.43.35:567][922]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.43.50:666][654]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 102
+[2022.04.16-14.43.50:666][654]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.44.02:012][216]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 92
+[2022.04.16-14.44.02:012][216]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.44.02:086][218]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 82
+[2022.04.16-14.44.02:087][218]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.44.09:111][576]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 72
+[2022.04.16-14.44.09:112][576]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.44.16:239][933]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 62
+[2022.04.16-14.44.16:239][933]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.44.21:878][206]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 54
+[2022.04.16-14.44.21:878][206]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.44.53:196][725]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2022.04.16-14.44.53:196][725]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.02:467][190]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2022.04.16-14.45.02:467][190]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.04:113][274]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2022.04.16-14.45.04:113][274]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.06:723][391]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2022.04.16-14.45.06:723][391]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.13:882][737]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2022.04.16-14.45.13:882][737]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.28:765][465]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2022.04.16-14.45.28:765][465]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.34:788][757]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2022.04.16-14.45.34:788][757]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.37:928][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.04.16-14.45.37:928][893]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.43:137][161]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.04.16-14.45.43:137][161]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.44:790][246]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.04.16-14.45.44:790][246]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.47:770][395]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.16-14.45.47:770][395]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.48:004][405]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.04.16-14.45.48:005][405]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.48:471][427]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.04.16-14.45.48:471][427]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.52:775][612]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.04.16-14.45.52:775][612]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.53:983][676]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.16-14.45.53:984][676]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.45.59:202][943]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.04.16-14.45.59:202][943]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.46.01:971][ 83]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.16-14.46.01:972][ 83]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.46.02:782][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.16-14.46.02:782][125]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.16-14.46.03:477][159]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 346
+[2022.04.16-14.46.03:477][159]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.03:502][160]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 336
+[2022.04.16-14.46.03:502][160]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.03:502][160]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 326
+[2022.04.16-14.46.03:502][160]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.04:179][194]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 316
+[2022.04.16-14.46.04:179][194]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.07:284][363]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 306
+[2022.04.16-14.46.07:284][363]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.10:481][543]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 296
+[2022.04.16-14.46.10:481][543]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.11:232][587]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 286
+[2022.04.16-14.46.11:232][587]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.11:361][594]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 276
+[2022.04.16-14.46.11:361][594]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.11:619][607]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 266
+[2022.04.16-14.46.11:620][607]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.12:265][644]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 256
+[2022.04.16-14.46.12:265][644]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.13:796][723]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 246
+[2022.04.16-14.46.13:796][723]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.16:058][841]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 236
+[2022.04.16-14.46.16:058][841]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 226
+[2022.04.16-14.46.16:058][841]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.16:200][848]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 216
+[2022.04.16-14.46.16:200][848]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.16:723][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 206
+[2022.04.16-14.46.16:724][874]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.19:644][ 19]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 196
+[2022.04.16-14.46.19:645][ 19]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.27:081][395]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 186
+[2022.04.16-14.46.27:082][395]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.27:101][395]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-14.46.27:101][395]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-14.46.27:101][395]LogShaderCompilers: Display: Tracking 1234 distinct input hashes that result in 805 distinct outputs (65.24%)
+[2022.04.16-14.46.27:101][395]LogShaderCompilers: Display: RAM used: 17.54 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.14%
+[2022.04.16-14.46.27:101][395]LogShaderCompilers: Display: ================================================
+[2022.04.16-14.46.31:574][623]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 176
+[2022.04.16-14.46.31:574][623]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.32:753][682]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 166
+[2022.04.16-14.46.32:753][682]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.33:057][699]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 156
+[2022.04.16-14.46.33:057][699]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.34:195][757]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 146
+[2022.04.16-14.46.34:195][757]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.34:409][769]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 136
+[2022.04.16-14.46.34:409][769]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.36:107][853]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 126
+[2022.04.16-14.46.36:107][853]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.37:614][928]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 116
+[2022.04.16-14.46.37:614][928]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.47:101][394]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 106
+[2022.04.16-14.46.47:101][394]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.51:351][597]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 96
+[2022.04.16-14.46.51:351][597]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.52:044][629]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 86
+[2022.04.16-14.46.52:044][629]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.46.53:108][679]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 76
+[2022.04.16-14.46.53:108][679]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.06:351][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2022.04.16-14.47.06:351][323]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.24:605][199]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 57
+[2022.04.16-14.47.24:605][199]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.26:112][270]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2022.04.16-14.47.26:113][270]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.26:626][296]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2022.04.16-14.47.26:627][296]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.26:803][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2022.04.16-14.47.26:803][303]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.29:689][446]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2022.04.16-14.47.29:689][446]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.31:645][542]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2022.04.16-14.47.31:645][542]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.31:956][559]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2022.04.16-14.47.31:956][559]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.32:193][571]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.16-14.47.32:193][571]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.33:344][631]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2022.04.16-14.47.33:344][631]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.33:661][647]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.04.16-14.47.33:661][647]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.34:084][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.04.16-14.47.34:084][669]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.34:959][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2022.04.16-14.47.34:959][715]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.35:424][739]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.04.16-14.47.35:424][739]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.35:856][762]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.04.16-14.47.35:856][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.36:146][776]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.04.16-14.47.36:146][776]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.36:228][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.04.16-14.47.36:228][780]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.36:457][792]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.04.16-14.47.36:457][792]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.36:534][796]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.16-14.47.36:535][796]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-14.47.36:759][807]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.16-14.47.36:759][807]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.16-15.00.54:842][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.16-15.00.56:530][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.16-15.00.56:550][387]LogSlate: Window 'SchizophrenyaVR - Unreal Editor' being destroyed
+[2022.04.16-15.00.56:793][388]Cmd: QUIT_EDITOR
+[2022.04.16-15.00.56:793][388]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.16-15.00.56:812][388]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.16-15.00.56:869][388]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.16-15.00.56:869][388]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.16-15.00.56:870][388]LogAudio: Display: Audio Device unregistered from world 'MapaPrincipal'.
+[2022.04.16-15.00.56:886][388]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.16-15.00.56:895][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.16-15.00.56:900][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.16-15.00.56:930][388]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.16-15.00.56:934][388]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.16-15.00.56:950][388]LogExit: Preparing to exit.
+[2022.04.16-15.00.56:995][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.16-15.00.57:601][388]LogHoloLensAR: HoloLens AR session stopped (sort of, not really)
+[2022.04.16-15.00.57:742][388]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.16-15.00.57:772][388]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.16-15.00.57:773][388]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.16-15.00.57:773][388]LogExit: Editor shut down
+[2022.04.16-15.00.57:774][388]LogExit: Transaction tracking system shut down
+[2022.04.16-15.00.58:230][388]LogExit: Object subsystem successfully closed.
+[2022.04.16-15.00.58:245][388]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.16-15.00.58:245][388]LogShaderCompilers: Display: Total job queries 1490, among them cache hits 0 (0.00%)
+[2022.04.16-15.00.58:245][388]LogShaderCompilers: Display: Tracking 1490 distinct input hashes that result in 901 distinct outputs (60.47%)
+[2022.04.16-15.00.58:245][388]LogShaderCompilers: Display: RAM used: 18.50 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.26%
+[2022.04.16-15.00.58:245][388]LogShaderCompilers: Display: ================================================
+[2022.04.16-15.00.58:281][388]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.16-15.00.58:463][388]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (906)
+[2022.04.16-15.00.58:464][388]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (904)
+[2022.04.16-15.00.58:464][388]LogModuleManager: Shutting down and abandoning module AddContentDialog (902)
+[2022.04.16-15.00.58:465][388]LogModuleManager: Shutting down and abandoning module WidgetCarousel (901)
+[2022.04.16-15.00.58:465][388]LogModuleManager: Shutting down and abandoning module EditorWidgets (898)
+[2022.04.16-15.00.58:465][388]LogModuleManager: Shutting down and abandoning module SceneOutliner (896)
+[2022.04.16-15.00.58:466][388]LogModuleManager: Shutting down and abandoning module StatsViewer (894)
+[2022.04.16-15.00.58:467][388]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2022.04.16-15.00.58:469][388]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (890)
+[2022.04.16-15.00.58:469][388]LogModuleManager: Shutting down and abandoning module AutomationWorker (888)
+[2022.04.16-15.00.58:470][388]LogModuleManager: Shutting down and abandoning module SteamVREditor (886)
+[2022.04.16-15.00.58:470][388]LogModuleManager: Shutting down and abandoning module OculusMR (884)
+[2022.04.16-15.00.58:470][388]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (882)
+[2022.04.16-15.00.58:470][388]LogModuleManager: Shutting down and abandoning module OpenXRInput (880)
+[2022.04.16-15.00.58:470][388]LogModuleManager: Shutting down and abandoning module GooglePADEditor (878)
+[2022.04.16-15.00.58:470][388]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (876)
+[2022.04.16-15.00.58:470][388]LogModuleManager: Shutting down and abandoning module PlanarCut (874)
+[2022.04.16-15.00.58:471][388]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (872)
+[2022.04.16-15.00.58:477][388]LogModuleManager: Shutting down and abandoning module TakeRecorder (871)
+[2022.04.16-15.00.58:479][388]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (868)
+[2022.04.16-15.00.58:480][388]LogModuleManager: Shutting down and abandoning module TakesCore (866)
+[2022.04.16-15.00.58:480][388]LogModuleManager: Shutting down and abandoning module CharacterAI (864)
+[2022.04.16-15.00.58:480][388]LogModuleManager: Shutting down and abandoning module TextureAlignMode (862)
+[2022.04.16-15.00.58:480][388]LogModuleManager: Shutting down and abandoning module BspMode (860)
+[2022.04.16-15.00.58:481][388]LogModuleManager: Shutting down and abandoning module GeometryMode (858)
+[2022.04.16-15.00.58:482][388]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (856)
+[2022.04.16-15.00.58:482][388]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (854)
+[2022.04.16-15.00.58:482][388]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (852)
+[2022.04.16-15.00.58:482][388]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (850)
+[2022.04.16-15.00.58:482][388]LogModuleManager: Shutting down and abandoning module WebMMedia (848)
+[2022.04.16-15.00.58:482][388]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (846)
+[2022.04.16-15.00.58:488][388]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (844)
+[2022.04.16-15.00.58:488][388]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (842)
+[2022.04.16-15.00.58:488][388]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (840)
+[2022.04.16-15.00.58:488][388]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (838)
+[2022.04.16-15.00.58:491][388]LogModuleManager: Shutting down and abandoning module SequenceRecorder (837)
+[2022.04.16-15.00.58:491][388]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (834)
+[2022.04.16-15.00.58:492][388]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (832)
+[2022.04.16-15.00.58:492][388]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (830)
+[2022.04.16-15.00.58:492][388]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (828)
+[2022.04.16-15.00.58:492][388]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (826)
+[2022.04.16-15.00.58:492][388]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (824)
+[2022.04.16-15.00.58:492][388]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (822)
+[2022.04.16-15.00.58:492][388]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (820)
+[2022.04.16-15.00.58:493][388]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (818)
+[2022.04.16-15.00.58:496][388]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (816)
+[2022.04.16-15.00.58:498][388]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (814)
+[2022.04.16-15.00.58:499][388]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (812)
+[2022.04.16-15.00.58:500][388]LogModuleManager: Shutting down and abandoning module SmartSnapping (810)
+[2022.04.16-15.00.58:500][388]LogModuleManager: Shutting down and abandoning module SessionServices (808)
+[2022.04.16-15.00.58:500][388]LogModuleManager: Shutting down and abandoning module MeshPaint (806)
+[2022.04.16-15.00.58:502][388]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (804)
+[2022.04.16-15.00.58:503][388]LogModuleManager: Shutting down and abandoning module FoliageEdit (802)
+[2022.04.16-15.00.58:505][388]LogModuleManager: Shutting down and abandoning module LandscapeEditor (800)
+[2022.04.16-15.00.58:509][388]LogModuleManager: Shutting down and abandoning module MeshPaintMode (798)
+[2022.04.16-15.00.58:509][388]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (796)
+[2022.04.16-15.00.58:509][388]LogModuleManager: Shutting down and abandoning module ActorPickerMode (794)
+[2022.04.16-15.00.58:509][388]LogModuleManager: Shutting down and abandoning module PlacementMode (792)
+[2022.04.16-15.00.58:509][388]LogModuleManager: Shutting down and abandoning module ViewportSnapping (790)
+[2022.04.16-15.00.58:509][388]LogModuleManager: Shutting down and abandoning module ViewportInteraction (788)
+[2022.04.16-15.00.58:509][388]LogModuleManager: Shutting down and abandoning module ClothPainter (786)
+[2022.04.16-15.00.58:511][388]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (785)
+[2022.04.16-15.00.58:516][388]LogModuleManager: Shutting down and abandoning module LogVisualizer (782)
+[2022.04.16-15.00.58:518][388]LogModuleManager: Shutting down and abandoning module IntroTutorials (780)
+[2022.04.16-15.00.58:519][388]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (779)
+[2022.04.16-15.00.58:519][388]LogModuleManager: Shutting down and abandoning module WindowsMixedRealityPlatformEditor (776)
+[2022.04.16-15.00.58:519][388]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (774)
+[2022.04.16-15.00.58:520][388]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (772)
+[2022.04.16-15.00.58:520][388]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (770)
+[2022.04.16-15.00.58:520][388]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (769)
+[2022.04.16-15.00.59:079][388]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (766)
+[2022.04.16-15.00.59:079][388]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (764)
+[2022.04.16-15.00.59:079][388]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (762)
+[2022.04.16-15.00.59:079][388]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (760)
+[2022.04.16-15.00.59:079][388]LogModuleManager: Shutting down and abandoning module TraceInsights (758)
+[2022.04.16-15.00.59:090][388]MemoryProfiler: Shutdown
+[2022.04.16-15.00.59:090][388]NetworkingProfiler: Shutdown
+[2022.04.16-15.00.59:090][388]LoadingProfiler: Shutdown
+[2022.04.16-15.00.59:092][388]TimingProfiler: Shutdown
+[2022.04.16-15.00.59:097][388]LogModuleManager: Shutting down and abandoning module TraceServices (757)
+[2022.04.16-15.00.59:100][388]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (754)
+[2022.04.16-15.00.59:100][388]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (752)
+[2022.04.16-15.00.59:100][388]LogModuleManager: Shutting down and abandoning module InputBindingEditor (750)
+[2022.04.16-15.00.59:101][388]LogModuleManager: Shutting down and abandoning module MergeActors (748)
+[2022.04.16-15.00.59:102][388]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (746)
+[2022.04.16-15.00.59:103][388]LogModuleManager: Shutting down and abandoning module LocalizationService (745)
+[2022.04.16-15.00.59:103][388]LogModuleManager: Shutting down and abandoning module HardwareTargeting (742)
+[2022.04.16-15.00.59:103][388]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (740)
+[2022.04.16-15.00.59:104][388]LogModuleManager: Shutting down and abandoning module UndoHistory (738)
+[2022.04.16-15.00.59:105][388]LogModuleManager: Shutting down and abandoning module XmlParser (736)
+[2022.04.16-15.00.59:105][388]LogModuleManager: Shutting down and abandoning module Blutility (734)
+[2022.04.16-15.00.59:105][388]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (732)
+[2022.04.16-15.00.59:106][388]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (731)
+[2022.04.16-15.00.59:106][388]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (728)
+[2022.04.16-15.00.59:106][388]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (727)
+[2022.04.16-15.00.59:106][388]LogModuleManager: Shutting down and abandoning module SettingsEditor (724)
+[2022.04.16-15.00.59:110][388]LogModuleManager: Shutting down and abandoning module ProjectLauncher (722)
+[2022.04.16-15.00.59:110][388]LogModuleManager: Shutting down and abandoning module SessionFrontend (720)
+[2022.04.16-15.00.59:110][388]LogModuleManager: Shutting down and abandoning module ProfilerClient (718)
+[2022.04.16-15.00.59:112][388]LogModuleManager: Shutting down and abandoning module DeviceManager (716)
+[2022.04.16-15.00.59:112][388]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (715)
+[2022.04.16-15.00.59:144][388]LogModuleManager: Shutting down and abandoning module AutomationController (712)
+[2022.04.16-15.00.59:145][388]LogModuleManager: Shutting down and abandoning module AutomationWindow (710)
+[2022.04.16-15.00.59:146][388]LogModuleManager: Shutting down and abandoning module Layers (708)
+[2022.04.16-15.00.59:149][388]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (706)
+[2022.04.16-15.00.59:149][388]LogModuleManager: Shutting down and abandoning module DetailCustomizations (704)
+[2022.04.16-15.00.59:150][388]LogModuleManager: Shutting down and abandoning module PackagesDialog (702)
+[2022.04.16-15.00.59:150][388]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (700)
+[2022.04.16-15.00.59:154][388]LogModuleManager: Shutting down and abandoning module Persona (698)
+[2022.04.16-15.00.59:155][388]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (697)
+[2022.04.16-15.00.59:155][388]LogModuleManager: Shutting down and abandoning module AnimGraph (695)
+[2022.04.16-15.00.59:156][388]LogModuleManager: Shutting down and abandoning module Kismet (692)
+[2022.04.16-15.00.59:159][388]LogModuleManager: Shutting down and abandoning module KismetWidgets (691)
+[2022.04.16-15.00.59:160][388]LogModuleManager: Shutting down and abandoning module GraphEditor (688)
+[2022.04.16-15.00.59:164][388]LogModuleManager: Shutting down and abandoning module StructViewer (686)
+[2022.04.16-15.00.59:164][388]LogModuleManager: Shutting down and abandoning module ClassViewer (684)
+[2022.04.16-15.00.59:164][388]LogModuleManager: Shutting down and abandoning module Toolbox (682)
+[2022.04.16-15.00.59:164][388]LogModuleManager: Shutting down and abandoning module ModuleUI (680)
+[2022.04.16-15.00.59:165][388]LogModuleManager: Shutting down and abandoning module OutputLog (678)
+[2022.04.16-15.00.59:167][388]LogModuleManager: Shutting down and abandoning module GammaUI (676)
+[2022.04.16-15.00.59:168][388]LogModuleManager: Shutting down and abandoning module Documentation (674)
+[2022.04.16-15.00.59:168][388]LogModuleManager: Shutting down and abandoning module LiveCoding (672)
+[2022.04.16-15.00.59:169][388]LogModuleManager: Shutting down and abandoning module LevelSequence (670)
+[2022.04.16-15.00.59:169][388]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (668)
+[2022.04.16-15.00.59:169][388]LogModuleManager: Shutting down and abandoning module MovieScene (666)
+[2022.04.16-15.00.59:170][388]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (664)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module LauncherPlatform (662)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module AnalyticsET (660)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module PortalServices (658)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module PortalRpc (656)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module MessagingRpc (654)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (652)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module AudioMixerCore (651)
+[2022.04.16-15.00.59:171][388]LogModuleManager: Shutting down and abandoning module AIModule (648)
+[2022.04.16-15.00.59:172][388]LogModuleManager: Shutting down and abandoning module GameplayDebugger (647)
+[2022.04.16-15.00.59:173][388]LogModuleManager: Shutting down and abandoning module AITestSuite (645)
+[2022.04.16-15.00.59:174][388]LogModuleManager: Shutting down and abandoning module NavigationSystem (643)
+[2022.04.16-15.00.59:174][388]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (640)
+[2022.04.16-15.00.59:177][388]LogModuleManager: Shutting down and abandoning module ProfilerService (638)
+[2022.04.16-15.00.59:199][388]LogModuleManager: Shutting down and abandoning module TaskGraph (636)
+[2022.04.16-15.00.59:201][388]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (634)
+[2022.04.16-15.00.59:201][388]LogModuleManager: Shutting down and abandoning module MegascansPlugin (632)
+[2022.04.16-15.00.59:201][388]LogModuleManager: Shutting down and abandoning module OculusEditor (630)
+[2022.04.16-15.00.59:217][388]LogModuleManager: Shutting down and abandoning module OculusInput (628)
+[2022.04.16-15.00.59:217][388]LogModuleManager: Shutting down and abandoning module DatabaseSupport (626)
+[2022.04.16-15.00.59:217][388]LogModuleManager: Shutting down and abandoning module SQLiteSupport (624)
+[2022.04.16-15.00.59:217][388]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (622)
+[2022.04.16-15.00.59:217][388]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (620)
+[2022.04.16-15.00.59:217][388]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (618)
+[2022.04.16-15.00.59:217][388]LogModuleManager: Shutting down and abandoning module CollectionManager (617)
+[2022.04.16-15.00.59:218][388]LogModuleManager: Shutting down and abandoning module SynthesisEditor (614)
+[2022.04.16-15.00.59:218][388]LogModuleManager: Shutting down and abandoning module Synthesis (612)
+[2022.04.16-15.00.59:220][388]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (610)
+[2022.04.16-15.00.59:220][388]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (608)
+[2022.04.16-15.00.59:220][388]LogModuleManager: Shutting down and abandoning module ResonanceAudio (606)
+[2022.04.16-15.00.59:220][388]LogModuleManager: Shutting down and abandoning module OpenXREditor (604)
+[2022.04.16-15.00.59:220][388]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (602)
+[2022.04.16-15.00.59:220][388]LogModuleManager: Shutting down and abandoning module GooglePAD (600)
+[2022.04.16-15.00.59:220][388]LogModuleManager: Shutting down and abandoning module EditableMesh (598)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (596)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module AudioCapture (594)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (593)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (590)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module AppleImageUtils (588)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module AssetTags (586)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (584)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module CableComponent (582)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module AndroidPermission (580)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (578)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (576)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module SimpleHMD (574)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (572)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module MotoSynth (570)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (568)
+[2022.04.16-15.00.59:222][388]LogOpenImageDenoise: OIDN shutting down
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module MeshConversion (566)
+[2022.04.16-15.00.59:222][388]LogModuleManager: Shutting down and abandoning module DynamicMesh (564)
+[2022.04.16-15.00.59:223][388]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (562)
+[2022.04.16-15.00.59:224][388]LogModuleManager: Shutting down and abandoning module GeometricObjects (560)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module TakeSequencer (558)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module TakeMovieScene (556)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module ScreenshotTools (554)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (552)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (551)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (548)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (546)
+[2022.04.16-15.00.59:225][388]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (544)
+[2022.04.16-15.00.59:226][388]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (542)
+[2022.04.16-15.00.59:226][388]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (540)
+[2022.04.16-15.00.59:226][388]LogModuleManager: Shutting down and abandoning module FractureEditor (538)
+[2022.04.16-15.00.59:226][388]LogModuleManager: Shutting down and abandoning module BackChannel (536)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (534)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (532)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module AutomationUtils (530)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module ChaosNiagara (528)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (527)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module AlembicImporter (524)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module AlembicLibrary (523)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module GeometryCache (522)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (521)
+[2022.04.16-15.00.59:227][388]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (516)
+[2022.04.16-15.00.59:228][388]LogModuleManager: Shutting down and abandoning module PluginBrowser (514)
+[2022.04.16-15.00.59:232][388]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (512)
+[2022.04.16-15.00.59:232][388]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (510)
+[2022.04.16-15.00.59:232][388]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (508)
+[2022.04.16-15.00.59:232][388]LogModuleManager: Shutting down and abandoning module CurveEditorTools (506)
+[2022.04.16-15.00.59:234][388]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (504)
+[2022.04.16-15.00.59:234][388]LogModuleManager: Shutting down and abandoning module CryptoKeys (502)
+[2022.04.16-15.00.59:234][388]LogModuleManager: Shutting down and abandoning module ImgMedia (500)
+[2022.04.16-15.00.59:234][388]LogModuleManager: Shutting down and abandoning module MediaCompositing (498)
+[2022.04.16-15.00.59:234][388]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (496)
+[2022.04.16-15.00.59:234][388]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (494)
+[2022.04.16-15.00.59:234][388]LogModuleManager: Shutting down and abandoning module TemplateSequence (492)
+[2022.04.16-15.00.59:235][388]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (490)
+[2022.04.16-15.00.59:235][388]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (488)
+[2022.04.16-15.00.59:236][388]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (486)
+[2022.04.16-15.00.59:237][388]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (484)
+[2022.04.16-15.00.59:240][388]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (482)
+[2022.04.16-15.00.59:241][388]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (480)
+[2022.04.16-15.00.59:241][388]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (478)
+[2022.04.16-15.00.59:241][388]LogModuleManager: Shutting down and abandoning module UObjectPlugin (476)
+[2022.04.16-15.00.59:241][388]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (474)
+[2022.04.16-15.00.59:244][388]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (472)
+[2022.04.16-15.00.59:244][388]LogModuleManager: Shutting down and abandoning module PluginUtils (470)
+[2022.04.16-15.00.59:245][388]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (468)
+[2022.04.16-15.00.59:246][388]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (466)
+[2022.04.16-15.00.59:249][388]LogModuleManager: Shutting down and abandoning module GitSourceControl (464)
+[2022.04.16-15.00.59:250][388]LogModuleManager: Shutting down and abandoning module SourceControl (463)
+[2022.04.16-15.00.59:251][388]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (460)
+[2022.04.16-15.00.59:257][388]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (458)
+[2022.04.16-15.00.59:257][388]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (456)
+[2022.04.16-15.00.59:257][388]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (454)
+[2022.04.16-15.00.59:257][388]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (452)
+[2022.04.16-15.00.59:257][388]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (450)
+[2022.04.16-15.00.59:257][388]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (448)
+[2022.04.16-15.00.59:257][388]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (446)
+[2022.04.16-15.00.59:258][388]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (444)
+[2022.04.16-15.00.59:258][388]LogModuleManager: Shutting down and abandoning module LiveLink (442)
+[2022.04.16-15.00.59:310][388]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (440)
+[2022.04.16-15.00.59:310][388]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (438)
+[2022.04.16-15.00.59:310][388]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (436)
+[2022.04.16-15.00.59:310][388]LogModuleManager: Shutting down and abandoning module Paper2DEditor (434)
+[2022.04.16-15.00.59:313][388]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (432)
+[2022.04.16-15.00.59:313][388]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (430)
+[2022.04.16-15.00.59:314][388]LogModuleManager: Shutting down and abandoning module SQLiteCore (428)
+[2022.04.16-15.00.59:315][388]LogModuleManager: Shutting down and abandoning module WindowsMixedRealityEyeTracker (426)
+[2022.04.16-15.00.59:315][388]LogModuleManager: Shutting down and abandoning module WindowsMixedRealitySpatialInput (424)
+[2022.04.16-15.00.59:316][388]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (422)
+[2022.04.16-15.00.59:316][388]LogModuleManager: Shutting down and abandoning module SoundFields (420)
+[2022.04.16-15.00.59:316][388]LogModuleManager: Shutting down and abandoning module SignificanceManager (418)
+[2022.04.16-15.00.59:316][388]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (416)
+[2022.04.16-15.00.59:318][388]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (414)
+[2022.04.16-15.00.59:318][388]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (410)
+[2022.04.16-15.00.59:318][388]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (408)
+[2022.04.16-15.00.59:319][388]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (406)
+[2022.04.16-15.00.59:319][388]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (404)
+[2022.04.16-15.00.59:319][388]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (402)
+[2022.04.16-15.00.59:320][388]LogModuleManager: Shutting down and abandoning module DataValidation (400)
+[2022.04.16-15.00.59:320][388]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (398)
+[2022.04.16-15.00.59:320][388]LogModuleManager: Shutting down and abandoning module FacialAnimation (396)
+[2022.04.16-15.00.59:320][388]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (394)
+[2022.04.16-15.00.59:321][388]LogModuleManager: Shutting down and abandoning module LevelEditor (393)
+[2022.04.16-15.00.59:325][388]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (392)
+[2022.04.16-15.00.59:325][388]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (390)
+[2022.04.16-15.00.59:325][388]LogModuleManager: Shutting down and abandoning module MainFrame (388)
+[2022.04.16-15.00.59:326][388]LogModuleManager: Shutting down and abandoning module HotReload (387)
+[2022.04.16-15.00.59:327][388]LogModuleManager: Shutting down and abandoning module ToolMenus (383)
+[2022.04.16-15.00.59:327][388]LogModuleManager: Shutting down and abandoning module TreeMap (381)
+[2022.04.16-15.00.59:327][388]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (378)
+[2022.04.16-15.00.59:327][388]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (376)
+[2022.04.16-15.00.59:327][388]LogModuleManager: Shutting down and abandoning module UdpMessaging (374)
+[2022.04.16-15.00.59:428][388]LogModuleManager: Shutting down and abandoning module TcpMessaging (372)
+[2022.04.16-15.00.59:529][388]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2022.04.16-15.00.59:529][388]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2022.04.16-15.00.59:529][388]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2022.04.16-15.00.59:531][388]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2022.04.16-15.00.59:533][388]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.16-15.00.59:533][388]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2022.04.16-15.00.59:533][388]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2022.04.16-15.00.59:533][388]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module ActorSequence (348)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (346)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2022.04.16-15.00.59:535][388]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2022.04.16-15.00.59:536][388]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2022.04.16-15.00.59:536][388]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2022.04.16-15.00.59:539][388]LogModuleManager: Shutting down and abandoning module ContentBrowser (338)
+[2022.04.16-15.00.59:539][388]LogModuleManager: Shutting down and abandoning module ContentBrowserData (337)
+[2022.04.16-15.00.59:539][388]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2022.04.16-15.00.59:539][388]LogModuleManager: Shutting down and abandoning module AnimationSharing (330)
+[2022.04.16-15.00.59:539][388]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (328)
+[2022.04.16-15.00.59:540][388]LogModuleManager: Shutting down and abandoning module GameplayCameras (326)
+[2022.04.16-15.00.59:540][388]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (324)
+[2022.04.16-15.00.59:540][388]LogModuleManager: Shutting down and abandoning module Paper2D (322)
+[2022.04.16-15.00.59:542][388]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2022.04.16-15.00.59:545][388]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2022.04.16-15.00.59:547][388]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (316)
+[2022.04.16-15.00.59:547][388]LogModuleManager: Shutting down and abandoning module PacketHandler (314)
+[2022.04.16-15.00.59:547][388]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (312)
+[2022.04.16-15.00.59:547][388]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (310)
+[2022.04.16-15.00.59:548][388]LogModuleManager: Shutting down and abandoning module MediaAssets (308)
+[2022.04.16-15.00.59:548][388]LogModuleManager: Shutting down and abandoning module Overlay (306)
+[2022.04.16-15.00.59:548][388]LogModuleManager: Shutting down and abandoning module OverlayEditor (305)
+[2022.04.16-15.00.59:548][388]LogModuleManager: Shutting down and abandoning module VREditor (302)
+[2022.04.16-15.00.59:549][388]LogModuleManager: Shutting down and abandoning module StringTableEditor (300)
+[2022.04.16-15.00.59:550][388]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (298)
+[2022.04.16-15.00.59:552][388]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (296)
+[2022.04.16-15.00.59:553][388]LogModuleManager: Shutting down and abandoning module FunctionalTesting (294)
+[2022.04.16-15.00.59:553][388]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (292)
+[2022.04.16-15.00.59:555][388]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (291)
+[2022.04.16-15.00.59:555][388]LogModuleManager: Shutting down and abandoning module UMG (288)
+[2022.04.16-15.00.59:555][388]LogModuleManager: Shutting down and abandoning module UMGEditor (287)
+[2022.04.16-15.00.59:556][388]LogModuleManager: Shutting down and abandoning module MessageLog (285)
+[2022.04.16-15.00.59:556][388]LogModuleManager: Shutting down and abandoning module SlateReflector (280)
+[2022.04.16-15.00.59:563][388]LogModuleManager: Shutting down and abandoning module Slate (278)
+[2022.04.16-15.00.59:563][388]LogModuleManager: Shutting down and abandoning module SlateCore (276)
+[2022.04.16-15.00.59:564][388]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (274)
+[2022.04.16-15.00.59:564][388]LogModuleManager: Shutting down and abandoning module UnrealEd (272)
+[2022.04.16-15.00.59:566][388]LogModuleManager: Shutting down and abandoning module MRMesh (270)
+[2022.04.16-15.00.59:566][388]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (268)
+[2022.04.16-15.00.59:566][388]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (266)
+[2022.04.16-15.00.59:566][388]LogModuleManager: Shutting down and abandoning module XAudio2 (264)
+[2022.04.16-15.00.59:568][388]LogModuleManager: Shutting down and abandoning module Networking (262)
+[2022.04.16-15.00.59:568][388]LogModuleManager: Shutting down and abandoning module Core (260)
+[2022.04.16-15.00.59:568][388]LogModuleManager: Shutting down and abandoning module MaterialEditor (258)
+[2022.04.16-15.00.59:568][388]LogModuleManager: Shutting down and abandoning module MovieSceneTools (256)
+[2022.04.16-15.00.59:570][388]LogModuleManager: Shutting down and abandoning module CurveEditor (255)
+[2022.04.16-15.00.59:572][388]LogModuleManager: Shutting down and abandoning module Sequencer (253)
+[2022.04.16-15.00.59:574][388]LogModuleManager: Shutting down and abandoning module EditorStyle (252)
+[2022.04.16-15.00.59:575][388]LogModuleManager: Shutting down and abandoning module KismetCompiler (248)
+[2022.04.16-15.00.59:575][388]LogModuleManager: Shutting down and abandoning module MeshBuilder (246)
+[2022.04.16-15.00.59:576][388]LogModuleManager: Shutting down and abandoning module MeshUtilities (244)
+[2022.04.16-15.00.59:576][388]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (243)
+[2022.04.16-15.00.59:577][388]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (242)
+[2022.04.16-15.00.59:577][388]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (241)
+[2022.04.16-15.00.59:577][388]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (239)
+[2022.04.16-15.00.59:579][388]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (237)
+[2022.04.16-15.00.59:582][388]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (235)
+[2022.04.16-15.00.59:583][388]LogModuleManager: Shutting down and abandoning module MaterialBaking (231)
+[2022.04.16-15.00.59:585][388]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (226)
+[2022.04.16-15.00.59:585][388]LogModuleManager: Shutting down and abandoning module DerivedDataCache (224)
+[2022.04.16-15.00.59:585][388]LogModuleManager: Shutting down and abandoning module TargetPlatform (222)
+[2022.04.16-15.00.59:586][388]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (221)
+[2022.04.16-15.00.59:588][388]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (219)
+[2022.04.16-15.00.59:589][388]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (217)
+[2022.04.16-15.00.59:589][388]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (215)
+[2022.04.16-15.00.59:591][388]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (213)
+[2022.04.16-15.00.59:592][388]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (211)
+[2022.04.16-15.00.59:592][388]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (209)
+[2022.04.16-15.00.59:592][388]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (207)
+[2022.04.16-15.00.59:592][388]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (205)
+[2022.04.16-15.00.59:592][388]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (203)
+[2022.04.16-15.00.59:592][388]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (201)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (199)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module ImageWrapper (198)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (195)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (193)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (191)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (189)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (187)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (185)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (183)
+[2022.04.16-15.00.59:594][388]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (181)
+[2022.04.16-15.00.59:595][388]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (179)
+[2022.04.16-15.00.59:595][388]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (177)
+[2022.04.16-15.00.59:595][388]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (175)
+[2022.04.16-15.00.59:595][388]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (173)
+[2022.04.16-15.00.59:595][388]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (171)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (169)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (167)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (165)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (163)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (161)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (159)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module Messaging (155)
+[2022.04.16-15.00.59:596][388]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (153)
+[2022.04.16-15.00.59:597][388]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.04.16-15.00.59:601][388]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (149)
+[2022.04.16-15.00.59:601][388]LogModuleManager: Shutting down and abandoning module D3D11RHI (146)
+[2022.04.16-15.00.59:601][388]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2022.04.16-15.00.59:601][388]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2022.04.16-15.00.59:601][388]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2022.04.16-15.00.59:601][388]LogModuleManager: Shutting down and abandoning module PhysXCooking (138)
+[2022.04.16-15.00.59:601][388]LogModuleManager: Shutting down and abandoning module Chaos (136)
+[2022.04.16-15.00.59:602][388]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (134)
+[2022.04.16-15.00.59:602][388]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (133)
+[2022.04.16-15.00.59:602][388]LogModuleManager: Shutting down and abandoning module AVEncoder (132)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (128)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module SteamVRInput (126)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module SteamVR (124)
+[2022.04.16-15.00.59:603][388]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module OculusHMD (122)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module OculusOpenXRHMD (120)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module HoloLensAR (118)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module WindowsMixedRealityInputSimulation (116)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module WindowsMixedRealityHandTracking (114)
+[2022.04.16-15.00.59:603][388]LogModuleManager: Shutting down and abandoning module WindowsMixedRealityHMD (112)
+[2022.04.16-15.00.59:604][388]LogModuleManager: Shutting down and abandoning module WindowsMixedRealityRuntimeSettings (110)
+[2022.04.16-15.00.59:604][388]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.04.16-15.00.59:605][388]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.16-15.00.59:605][388]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.04.16-15.00.59:605][388]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.04.16-15.00.59:606][388]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.04.16-15.00.59:606][388]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.04.16-15.00.59:617][388]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.04.16-15.00.59:617][388]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.04.16-15.00.59:618][388]LogModuleManager: Shutting down and abandoning module ChaosCloth (94)
+[2022.04.16-15.00.59:618][388]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2022.04.16-15.00.59:618][388]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.04.16-15.00.59:618][388]LogModuleManager: Shutting down and abandoning module WmfMedia (86)
+[2022.04.16-15.00.59:621][388]LogModuleManager: Shutting down and abandoning module Media (85)
+[2022.04.16-15.00.59:622][388]LogModuleManager: Shutting down and abandoning module MediaInfo (84)
+[2022.04.16-15.00.59:622][388]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (80)
+[2022.04.16-15.00.59:628][388]LogModuleManager: Shutting down and abandoning module XMPP (75)
+[2022.04.16-15.00.59:630][388]LogModuleManager: Shutting down and abandoning module WebSockets (74)
+[2022.04.16-15.00.59:653][388]LogModuleManager: Shutting down and abandoning module HTTP (71)
+[2022.04.16-15.00.59:653][388]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.16-15.00.59:654][388]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB549706-4F54-32C2-689D-1D8C5D0D8F42%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fa85b1d1404326bfd6d0cdb033ed57da%7Ce63145e582fe43359de8ed193ac934c4%7C675a65ee-9a1f-4d2f-b2f0-33ed410e2f77&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.16-15.00.59:654][388]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.04.16-15.00.59:688][388]LogModuleManager: Shutting down and abandoning module SSL (70)
+[2022.04.16-15.00.59:689][388]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.04.16-15.00.59:689][388]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.04.16-15.00.59:692][388]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.04.16-15.00.59:692][388]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.04.16-15.00.59:692][388]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2022.04.16-15.00.59:692][388]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.04.16-15.00.59:693][388]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.04.16-15.00.59:694][388]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.04.16-15.00.59:695][388]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.04.16-15.00.59:695][388]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.04.16-15.00.59:696][388]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.16-15.00.59:698][388]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.04.16-15.00.59:698][388]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.16-15.00.59:698][388]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.16-15.00.59:698][388]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.16-15.00.59:698][388]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.16-15.00.59:700][388]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.16-15.00.59:702][388]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.16-15.00.59:703][388]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.16-15.00.59:722][388]LogD3D11RHI: Shutdown
+[2022.04.16-15.00.59:722][388]LogD3D11RHI: CleanupD3DDevice
+[2022.04.16-15.00.59:727][388]LogExit: Exiting.
+[2022.04.16-15.00.59:751][388]Log file closed, 04/16/22 12:00:59
